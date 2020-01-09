@@ -1,4 +1,4 @@
-# ucesapc-server
+## GeoQuiz-server
 Technical Guide 
 ================
 
