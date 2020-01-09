@@ -1,4 +1,4 @@
-## GeoQuiz-server
+## questions
 Technical Guide 
 ================
 
