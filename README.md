@@ -13,14 +13,11 @@ To deploy this application use the following steps:
 
 ``` git clone https://github.com/Geobuddy/GeoQuiz-App.git ```
 
-
 ## Data Resources
 
 
-## Graphical User Interface
-
-
 ## Visualisation
+
 
 ## Copyright Statement 
 Copyright (C) 2019 Adilson Pacheco
