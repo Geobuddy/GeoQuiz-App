@@ -22,3 +22,5 @@ To deploy this application use the following steps:
 
 ## Visualisation
 
+## Copyright Statement 
+Copyright (C) 2019 Adilson Pacheco
