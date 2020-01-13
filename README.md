@@ -139,7 +139,7 @@ out with the server (e.g. httpServe.js) running.
 <img src="./GeoQuiz-questions/media/image4.png" width="800" height="500" >
 </p>
 
-**Figure 3:** Question App interface in the browser, before
+**Figure 3:** Question App interface in the browser, setting and submiting question to the database.
 
 | Files                      | Function                                                                                                                         |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------|
