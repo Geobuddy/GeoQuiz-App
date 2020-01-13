@@ -1,6 +1,4 @@
 # Question app
-==============
-
 The Question app is a location-based app that runs on a web browser
 using Material design. 
 When the app is launched it loads a series of questions points that were
