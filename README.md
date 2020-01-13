@@ -79,7 +79,7 @@ carried out with the server (e.g. httpServe.js) running.
 | Index.html                 | Contains the code for the web client side (e.g. material design and leaflet functions). The main function is to display the app. |
 | Instructions.html          | Contains user guide instruction to inform and guide new users.                                                                   |
 | leaflet.awesome-markers.js | Provides styling for the leaflet features such as markers.                                                                       |
-| leaflet.js                 | Provides mp tile to the application (e.g. mapbox and open street map)                                                            |
+| leaflet.js                 | Provides map tile to the application (e.g. mapbox and open street map)                                                            |
 | leafletFunctions.js        | Makes all the the request to the database (e.g. get the form data )                                                              |
 | startup.js                 | Responsible for initiating any desired function when the app is launched (e.g. load the quiz points and tracks user position)    |
 | uploadData.js              | Responsible for uploading the quiz answers,to the database                                                                       |
