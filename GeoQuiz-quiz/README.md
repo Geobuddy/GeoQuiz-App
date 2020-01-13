@@ -2,8 +2,7 @@
 Technical Guide 
 ================
 
-1.Quiz app
-==========
+## 1.Quiz app
 
 The Quiz app is a location-based app that runs on Android phones using
 PhoneGap and Material design. When the app is launched it loads a series
@@ -12,8 +11,7 @@ within the user's radio, a pop-up in the point opens prompting the user
 to answer the question. The questions within the app relate to a wide
 variety of historical and landmark topics.
 
-System requirements
--------------------
+### System requirements
 
 The Quiz app supports Android model above 2.3.3 Gingerbread (API Level
 10). The app was executed on the Cordova PhoneGap.
@@ -41,7 +39,9 @@ Using the Linux (Ubuntu) terminal from the SSH software run the code
 launch the PhoneGap app and type the server address in the empty field
 and connect.
 
-![](/media/image3.png)
+<p align="center">
+<img src="./media/image3.png" width="400" >
+</p>
 
 **Figure 1:** Show a BitVise interface, to access the server and virtual
 machine. (Taken from: Ellul, 2019.)
@@ -55,7 +55,10 @@ answers, a green marker for the correct answers and a pink marker for a
 yet to be answered question (**Figure 2**). Note, tests can only be
 carried out with the server (e.g. httpServe.js) running.
 
-![](./media/image2.png)![](./media/image5.png)![](./media/image1.png)![](./media/image6.png)
+<p align="center">
+<img src="./media/image2.png" height="300" > <img src="./media/image5.png" height="300" >
+<img src="./media/image1.png" height="300" > <img src="./media/image6.png" height="300" >
+</p>
 
 **Figure 2:** Shows the process of initiating the Quip App on PhoneGap
 (left) to the testing of the app (right).
@@ -65,7 +68,7 @@ carried out with the server (e.g. httpServe.js) running.
 | Index.html                 | Contains the code for the web client side (e.g. material design and leaflet functions). The main function is to display the app. |
 | Instructions.html          | Contains user guide instruction to inform and guide new users.                                                                   |
 | leaflet.awesome-markers.js | Provides styling for the leaflet features such as markers.                                                                       |
-| leaflet.js                 | Provides mp tile to the application (e.g. mapbox and open street map)                                                            |
+| leaflet.js                 | Provides map tile to the application (e.g. mapbox and open street map)                                                            |
 | leafletFunctions.js        | Makes all the the request to the database (e.g. get the form data )                                                              |
 | startup.js                 | Responsible for initiating any desired function when the app is launched (e.g. load the quiz points and tracks user position)    |
 | uploadData.js              | Responsible for uploading the quiz answers,to the database                                                                       |
