@@ -136,7 +136,7 @@ questions were added to the database. Note, tests can only be carried
 out with the server (e.g. httpServe.js) running.
 
 <p align="center">
-<img src="./GeoQuiz-questions/media/image4.png" width="800" height="500" >
+<img src="./GeoQuiz-questions/media/image4.png" width="600" height="500" >
 </p>
 
 **Figure 3:** Question App interface in the browser, setting and submiting question to the database.
